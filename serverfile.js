@@ -1,5 +1,4 @@
-let {data}=require('./data')
-let {products}=data;
+
 let express=require("express");
 const { Client } = require("pg");
 let app=express()
